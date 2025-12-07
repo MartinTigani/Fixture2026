@@ -1,0 +1,76 @@
+
+{
+  "GRUPO_A": [
+    {"equipo": "Mexico", "puntos": 0},
+    {"equipo": "Sudafrica", "puntos": 0},
+    {"equipo": "Corea del Sur", "puntos": 0},
+    {"equipo": "UEFA PO D", "puntos": 0}
+  ],
+  "GRUPO_B": [
+    {"equipo": "Canadá", "puntos": 0},
+    {"equipo": "UEFA PO A", "puntos": 0},
+    {"equipo": "Catar", "puntos": 0},
+    {"equipo": "Suiza", "puntos": 0}
+  ],
+  "GRUPO_C": [
+    {"equipo": "Brasil", "puntos": 0},
+    {"equipo": "Marruecos", "puntos": 0},
+    {"equipo": "Haiti", "puntos": 0},
+    {"equipo": "Escocia", "puntos": 0}
+  ],
+  "GRUPO_D": [
+    {"equipo": "EE.UU", "puntos": 0},
+    {"equipo": "Paraguay", "puntos": 0},
+    {"equipo": "Australia", "puntos": 0},
+    {"equipo": "UEFA PO C", "puntos": 0}
+  ],
+  
+  "GRUPO_E": [
+    {"equipo": "Alemania", "puntos": 0},
+    {"equipo": "Curazao", "puntos": 0},
+    {"equipo": "Costa de Marfil", "puntos": 0},
+    {"equipo": "Ecuador", "puntos": 0}
+  ],
+  "GRUPO_F": [
+    {"equipo": "Paises Bajos", "puntos": 0},
+    {"equipo": "Japon", "puntos": 0},
+    {"equipo": "UEFA PO B", "puntos": 0},
+    {"equipo": "Túnez", "puntos": 0}
+  ],
+  "GRUPO_G": [
+    {"equipo": "Bélgica", "puntos": 0},
+    {"equipo": "Egipto", "puntos": 0},
+    {"equipo": "Irán", "puntos": 0},
+    {"equipo": "Nueva Zelanda", "puntos": 0}
+  ],
+  "GRUPO_H": [
+    {"equipo": "España", "puntos": 0},
+    {"equipo": "Isla de Cabo Verde", "puntos": 0},
+    {"equipo": "Arabia Saudita", "puntos": 0},
+    {"equipo": "Uruguay", "puntos": 0}
+  ],
+  "GRUPO_I": [
+    {"equipo": "Francia", "puntos": 0},
+    {"equipo": "Senegal", "puntos": 0},
+    {"equipo": "FIFA PO 2", "puntos": 0},
+    {"equipo": "Noruega", "puntos": 0}
+  ],
+  "GRUPO_J": [
+    {"equipo": "Argentina", "puntos": 0},
+    {"equipo": "Argelia", "puntos": 0},
+    {"equipo": "Austria", "puntos": 0},
+    {"equipo": "Jordania", "puntos": 0}
+  ],
+  "GRUPO_K": [
+    {"equipo": "Portugal", "puntos": 0},
+    {"equipo": "FIFA PO 1", "puntos": 0},
+    {"equipo": "Uzbekistán", "puntos": 0},
+    {"equipo": "Colombia", "puntos": 0}
+  ],
+  "GRUPO_L": [
+    {"equipo": "Inglaterra", "puntos": 0},
+    {"equipo": "Croacia", "puntos": 0},
+    {"equipo": "Ghana", "puntos": 0},
+    {"equipo": "Panamá", "puntos": 0}
+  ]
+}
