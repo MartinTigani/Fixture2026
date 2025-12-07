@@ -72,3 +72,85 @@ header h1 {
     color: white;
     text-align: center;
 }
+
+.tabla-perfil {
+    width: 90%; 
+    max-width: 900px; 
+    margin: 20px auto; 
+    border-collapse: collapse; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+.tabla-perfil th, .tabla-perfil td {
+    border: 1px solid #ddd; 
+    padding: 10px 15px; 
+    text-align: left; 
+}
+
+
+.tabla-perfil thead th {
+    background-color: #333;
+    color: white; 
+    text-align: center; 
+}
+.tabla-perfil tbody tr:nth-child(even) {
+    background-color: #f9f9f9; 
+}
+
+/* Media Query para Tablets (ancho máximo 768px) */
+@media (max-width: 768px) {
+
+    body {
+        font-size: 0.8rem;
+    }
+
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    .tabla-perfil th, .tabla-perfil td {
+        padding: 8px 10px;
+    }
+
+    .grupo-table {
+        width: 45%;
+    }
+
+    .banderas-grid {
+        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+        gap: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    body {
+        font-size: 0.6rem;
+    }
+
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    .fases-grupos {
+        gap: 10px;
+    }
+    .grupo-table {
+        width: 95%; 
+        margin: 10px auto;
+    }
+    
+    .bandera-item img {
+        width: 60px;
+    }
+    .banderas-grid {
+        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    }
+
+    .tabla-perfil {
+        width: 100%;
+        box-sizing: border-box; 
+    }
+}
